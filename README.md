@@ -1,4 +1,4 @@
- > #👋 Hi, I’m Justin Mbaso
+ > # Hi, I’m Justin Mbaso
  A devoted Frontend Web developer.
  
 > # About me
