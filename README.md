@@ -1,5 +1,5 @@
- > # Hi, I’m Justin Mbaso
- A devoted Frontend Web developer.
+ > # 👋🏿Hi, I’m Justin Mbaso
+  A devoted Frontend Web developer.
  
 > # About me
 - 🌱 I’m Studying Electrical and Electronics Engineering at University of Nigeria Nssuka.
