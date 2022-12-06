@@ -1,8 +1,8 @@
- > # 👋🏿Hi, I’m Justin Mbaso
-  A devoted Frontend Web developer.
+ > # 👋🏿Hi, I Am Justin Mbaso
+   A devoted Frontend Web developer.
  
 > # About me
-- 🌱 I’m Studying Electrical and Electronics Engineering at University of Nigeria Nssuka.
+- 🏫 I’m Studying Electrical and Electronics Engineering at University of Nigeria Nssuka.
 - 👩‍💻 I use ReactJS, Javasript, Html, Css and other frontend frameworks.
 - 📫 You can reach me through my Email @ justinmbaso16@gmail.com or contact me on Whatsapp +2347083430300.
 
