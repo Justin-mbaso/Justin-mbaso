@@ -1,5 +1,5 @@
- > # 👋🏿Hi, I Am Mbaso Justin
-   A devoted software developer.
+ #👋🏿Hi, I Am Mbaso Justin
+  > A devoted software developer.
  
  # 💫 About me
 - 🏫 I am an undergrad at the University of Nigeria Nssuka
