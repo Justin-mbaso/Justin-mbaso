@@ -1,4 +1,4 @@
-# 👋🏿Hi, I Am Mbaso Justin
+# 👋🏿Hi, I am Mbaso Justin
   > A devoted software developer.
  
 # 💫 About me
