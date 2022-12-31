@@ -1,7 +1,7 @@
  > # 👋🏿Hi, I Am Mbaso Justin
    A devoted software developer.
  
-> # 💫 About me
+ # 💫 About me
 - 🏫 I am an undergrad at the University of Nigeria Nssuka
 - 👩‍💻 I am currently a frontend web developer
 - 📫 I have just begun my journey into backend development
